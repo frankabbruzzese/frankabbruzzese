@@ -21,6 +21,9 @@ He is the founder of   [Mvcct Team](http://www.mvc-controls.com/). His company, 
 
 Former MVP he writes about .NET, ASP.NET ), Azure, and client-side technologies in his blog, [Dot Net Programming](http://www.dotnet-programming.com/), and various online magazines/blogs.
 
+In the last years, he wrote also some books, among them [Software Architecture with C# 9 and .NET 5: Architecting software solutions using microservices, DevOps, and design patterns for Azure](https://www.amazon.com/dp/B08Q8PNK29)
+
+
 He and his company help the growth of developer’s teams, help them in the initial architectural design of projects and follow them during the whole project to ensure best practices and modular design are properly applied.
 
 He arrived at the .Net technology coming from Artificial Intelligence systems where he implemented one of the first decision support systems for banks and financial institutions, and passing through the Video Games arena where he implemented the Europe top-ten title “Puma Street Soccer”.
