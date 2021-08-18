@@ -24,3 +24,8 @@ Former MVP he writes about .NET, ASP.NET ), Azure, and client-side technologies 
 He and his company help the growth of developer’s teams, help them in the initial architectural design of projects and follow them during the whole project to ensure best practices and modular design are properly applied.
 
 He arrived at the .Net technology coming from Artificial Intelligence systems where he implemented one of the first decision support systems for banks and financial institutions, and passing through the Video Games arena where he implemented the Europe top-ten title “Puma Street Soccer”.
+
+### Contact me
+
+You can contact me through the contact form of either [my Blog](http://www.dotnet-programming.com/contact.aspx) or my company ([Contact us - Mvcct Team](http://www.mvc-controls.com/company/Home/Contact))
+
