@@ -1,3 +1,5 @@
+### News
+- [What’s new in Blazor WebAssembly 6](http://www.dotnet-programming.com/post/2021/08/27/Whate28099s-new-in-Blazor-WebAssembly-6.aspx)
 ### About Me
 
 <!--
