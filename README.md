@@ -1,4 +1,5 @@
 ### News
+- [Software Architecture with C# 10 and .NET 6 is out!](http://www.dotnet-programming.com/post/2022/04/01/Software-Architecture-with-C-10-and-NET-6-is-out!.aspx)
 - [What’s new in Blazor WebAssembly 6](http://www.dotnet-programming.com/post/2021/08/27/Whate28099s-new-in-Blazor-WebAssembly-6.aspx)
 ### About Me
 
